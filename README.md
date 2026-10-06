@@ -24,6 +24,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⢀⡜⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀
 ```
 
+<div align="center">
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,3 +40,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mysteeeeel&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysteeeeel&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
 </p>
+</div>
