@@ -28,19 +28,6 @@ user@github:~$ neofetch
 ⠀⠀⠀⠀⠀⠀⠀⢀⡜⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀
 ```
 
-```bash
-user@github:~$ cat about.txt
-```
-
-```
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec.
-Curto programar, jogar e produzir música nas horas vagas.
-Sempre aprendendo algo novo.
-```
-
-```bash
-user@github:~$ ls ~/stack
-```
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
