@@ -1,12 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=%24+whoami;%24+cd+~%2Fprojects;%24+code+.;%24+make+music+%26%26+play+games)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=2000&color=00FF41&center=true&vCenter=true&width=435&lines=%24+Welcome+to+my+profile++>ᴥ<)
 
 </div>
-
-```bash
-user@github:~$ neofetch
-```
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠤⣄⣀⡤⠤⠤⡀⠀⠀
