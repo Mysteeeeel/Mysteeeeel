@@ -36,15 +36,9 @@ user@github:~$ neofetch
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-```bash
-user@github:~$ git log --stat
-```
+
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mysteeeeel&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysteeeeel&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
 </p>
-
-```bash
-user@github:~$ _
-```
